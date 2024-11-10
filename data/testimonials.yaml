@@ -1,56 +1,53 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Agus
+    name: Andi
     message: >-
       Saya membeli kursi rotan dari furniture.bangunan.co untuk rumah saya, dan
-      hasilnya luar biasa. Kualitas produk terbaik dan sesuai dengan ekspektasi
+      hasilnya luar biasa. Kualitas produk sangat baik dan sesuai dengan harapan
       saya.
     response: >-
-      Terima kasih atas kepercayaannya! Kami senang dapat menyediakan produk
-      yang memuaskan untuk rumah Anda.
+      Kami sangat menghargai kepercayaan Anda. Senang Anda puas dengan produk
+      kami!
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Fitri
+    name: Diah
     message: >-
-      Furniture.bangunan.co sangat membantu dalam melengkapi dekorasi rumah
-      saya. Desainnya minimalis dan produk yang saya beli sangat berkualitas.
+      Furniture.bangunan.co memudahkan dalam melengkapi dekorasi rumah saya.
+      Desainnya minimalis dan produk yang saya beli sangat berkualitas.
     response: >-
-      Terima kasih atas ulasannya. Kami senang dapat membantu menciptakan
-      dekorasi rumah Anda!
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan furniture minimalis dari kami.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Joko
+    name: Bayu
     message: >-
       Meja rotan dari furniture.bangunan.co cantik dan sesuai dengan gaya ruang
-      tamu saya. Pembeliannya mudah dan cepat.
+      tamu saya. Pembeliannya praktis dan aman.
     response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan furniture yang tidak
-      hanya fungsional tetapi juga estetis.
+      Kami senang bisa menyediakan produk yang cocok untuk Anda. Terima kasih
+      atas kepercayaannya!
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Hendra
+    name: Gilang
     message: >-
-      Kursi dan meja rotan dari furniture.bangunan.co bagus, desainnya
-      minimalis, dan kualitasnya top.
+      Saya senang dengan kursi dan meja rotan dari furniture.bangunan.co.
+      Desainnya minimalis dan kualitasnya hebat.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih produk
       kami!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Diah
+    name: Dewi
     message: >-
-      Saya puas dengan layanan dari furniture.bangunan.co. Produk yang saya beli
-      berkualitas tinggi dan hasilnya memuaskan.
-    response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan suasana rumah yang
-      indah dengan produk hebat.
+      Pelayanan furniture.bangunan.co luar biasa. Produk yang saya beli terbaik
+      dan sesuai dengan ekspektasi saya.
+    response: Kami sangat menghargai ulasan Anda. Terima kasih atas kepercayaannya!
     rating: 5
   - avatar: /images/admin/avatar6.png
-    name: Yanto
+    name: Deni
     message: >-
-      Produk furniture minimalis dari furniture.bangunan.co sangat sesuai dengan
-      desain interior rumah saya. Proses pengirimannya juga efisien dan
-      produknya berkualitas.
+      Saya puas dengan layanan dari furniture.bangunan.co. Produk yang saya beli
+      berkualitas tinggi dan pengirimannya aman.
     response: >-
       Terima kasih telah mempercayakan desain interior rumah Anda kepada kami.
       Kami senang produk kami sesuai dengan harapan Anda.
