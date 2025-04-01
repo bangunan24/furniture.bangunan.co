@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Muntilan"
-date: "2024-04-29"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Muntilan. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Muntilan, bahan rotan menjadi beberapa pilihan yang amat efekti..."
+title: Jual Kursi & Meja Rotan di Muntilan
+date: '2025-04-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Muntilan. Bagi anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Muntilan, bahan rotan menjadi beberapa pilihan yang amat
+  efekti...
 ---
 
 **Jual Kursi & Meja Rotan di Muntilan** – Furniture merupakan salah satu kelengkapan atau perabotan rumah yang mencangkup beragam kebutuhan yg dibutuhkan oleh manusia. Beberapa tipe furniture yang kerap kali anda jumpai semisal meja, bangku, lemari dan masih banyak yg lainnya. Dengan adanya furniture ini akan menjadikan rumah anda paling efektif dan efisien.

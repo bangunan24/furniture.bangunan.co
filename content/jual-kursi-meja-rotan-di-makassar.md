@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Makassar"
-date: "2024-04-26"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Makassar. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Makassar, material rotan akan menjadi beberapa opsi yg teramat..."
+title: Jual Kursi & Meja Rotan di Makassar
+date: '2025-04-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Makassar. Untuk anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Makassar, material rotan akan menjadi beberapa opsi yg
+  teramat...
 ---
 
 **Jual Kursi & Meja Rotan di Makassar** – Furniture yaitu salah satu perlengkapan atau perabotan tempat tinggal yg mencangkup bermacam-macam keperluan yang dibutuhkan oleh manusia. Beberapa variasi furniture yg acap kali anda jumpai seperti meja, bangku, lemari dan masih begitu banyak yang lainnya. Dg adanya furniture ini akan menjadikan hunian anda sangat tepat guna dan efisien.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Salam"
-date: "2024-04-23"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Salam. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Salam, material rotan akan menjadi bagian alternatif yg amat efektif..."
+title: Jual Kursi & Meja Rotan di Salam
+date: '2025-04-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Salam. Bagi anda yg sedang mencari Jual Kursi &
+  Meja Rotan di Salam, material rotan akan menjadi bagian alternatif yg amat
+  efektif...
 ---
 
 **Jual Kursi & Meja Rotan di Salam** – Furniture merupakan beberapa perlengkapan atau perabotan rumah yg mencangkup bermacam-macam keperluan yg dibutuhkan oleh manusia. Sebagian jenis furniture yg tak jarang anda jumpai semisal meja, tempat duduk, lemari dan masih begitu banyak yg yang lain. Dg adanya furniture ini akan menjadikan rumah anda sangat tepat guna dan efisien.
