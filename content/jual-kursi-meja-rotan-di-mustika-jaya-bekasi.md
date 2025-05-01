@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Mustika Jaya Bekasi"
-date: "2024-05-01"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Mustika Jaya Bekasi. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Mustika Jaya Bekasi, material rotan menjadi salah satu..."
+title: Jual Kursi & Meja Rotan di Mustika Jaya Bekasi
+date: '2025-05-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Mustika Jaya Bekasi. Bagi anda yg sedang mencari
+  Jual Kursi & Meja Rotan di Mustika Jaya Bekasi, material rotan menjadi salah
+  satu...
 ---
 
 **Jual Kursi & Meja Rotan di Mustika Jaya Bekasi** – Furniture yaitu bagian perlengkapan atau perabotan hunian yang mencangkup beragam kebutuhan yg diperlukan oleh manusia. Beberapa tipe furniture yang acap kali anda jumpai seperti meja, kursi, lemari dan masih sangat banyak yg lainnya. Dg adanya furniture ini akan menjadikan rumah anda lebih efektif dan efisien.

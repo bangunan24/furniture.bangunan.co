@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Tajur Bogor"
-date: "2024-05-03"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Tajur Bogor. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Tajur Bogor, material rotan menjadi bagian alternatif yg ter..."
+title: Jual Kursi & Meja Rotan di Tajur Bogor
+date: '2025-05-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Tajur Bogor. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Tajur Bogor, material rotan menjadi bagian alternatif yg
+  ter...
 ---
 
 **Jual Kursi & Meja Rotan di Tajur Bogor** – Furniture merupakan beberapa perlengkapan atau perabotan hunian yg mencangkup beraneka kebutuhan yg dibutuhkan oleh manusia. Sebagian jenis furniture yg sering kali anda jumpai seperti meja, sofa, lemari dan masih begitu banyak yg lainnya. Dengan adanya furniture ini akan membuat rumah anda lebih fungsional dan efisien.
