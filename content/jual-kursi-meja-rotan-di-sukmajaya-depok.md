@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Sukmajaya Depok"
-date: "2024-06-15"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Sukmajaya Depok. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Sukmajaya Depok, bahan rotan menjadi bagian pilihan yg..."
+title: Jual Kursi & Meja Rotan di Sukmajaya Depok
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Sukmajaya Depok. Untuk anda yang sedang mencari
+  Jual Kursi & Meja Rotan di Sukmajaya Depok, bahan rotan menjadi bagian pilihan
+  yg...
 ---
 
 **Jual Kursi & Meja Rotan di Sukmajaya Depok** – Furniture adalah bagian kelengkapan atau perabotan hunian yg mencangkup beraneka keperluan yg dibutuhkan oleh manusia. Beberapa variasi furniture yg acap kali anda jumpai seperti meja, sofa, lemari dan masih banyak yg yang lain. Dg adanya furniture ini akan membikin hunian anda sangat fungsional dan efisien.

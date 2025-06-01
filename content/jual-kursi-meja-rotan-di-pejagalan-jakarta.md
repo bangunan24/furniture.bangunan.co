@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Pejagalan Jakarta"
-date: "2024-06-23"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Pejagalan Jakarta. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Pejagalan Jakarta, material rotan akan menjadi bebera..."
+title: Jual Kursi & Meja Rotan di Pejagalan Jakarta
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Pejagalan Jakarta. Untuk anda yang sedang mencari
+  Jual Kursi & Meja Rotan di Pejagalan Jakarta, material rotan akan menjadi
+  bebera...
 ---
 
 **Jual Kursi & Meja Rotan di Pejagalan Jakarta** – Furniture yaitu bagian peralatan atau perabotan tempat tinggal yang mencangkup beragam kebutuhan yang diperlukan oleh manusia. Beberapa tipe furniture yg tak jarang anda jumpai seperti meja, kursi, lemari dan masih sangat banyak yang yang lain. Dg adanya furniture ini akan membuat rumah anda sangat fungsional dan efisien.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Menteng Bogor"
-date: "2024-06-12"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Menteng Bogor. Untuk anda yg sedang mencari Jual Kursi & Meja Rotan di Menteng Bogor, bahan rotan menjadi beberapa opsi yg teramat..."
+title: Jual Kursi & Meja Rotan di Menteng Bogor
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Menteng Bogor. Untuk anda yg sedang mencari Jual
+  Kursi & Meja Rotan di Menteng Bogor, bahan rotan menjadi beberapa opsi yg
+  teramat...
 ---
 
 **Jual Kursi & Meja Rotan di Menteng Bogor** – Furniture merupakan salah satu kelengkapan atau perabotan hunian yang mencangkup beragam keperluan yg diperlukan oleh manusia. Sebagian tipe furniture yg sering kali anda jumpai seperti meja, kursi, lemari dan masih banyak yg lainnya. Dengan adanya furniture ini akan membuat rumah anda sangat efektif dan efisien.

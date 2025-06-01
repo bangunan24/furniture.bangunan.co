@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Palopo"
-date: "2024-06-21"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Palopo. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Palopo, material rotan bakal jadi bagian pilihan yang teramat te..."
+title: Jual Kursi & Meja Rotan di Palopo
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Palopo. Untuk anda yang sedang mencari Jual Kursi &
+  Meja Rotan di Palopo, material rotan bakal jadi bagian pilihan yang teramat
+  te...
 ---
 
 **Jual Kursi & Meja Rotan di Palopo** – Furniture merupakan bagian perlengkapan atau perabotan hunian yg mencangkup beragam keperluan yg diperlukan oleh manusia. Beberapa jenis furniture yang tak jarang anda jumpai semisal meja, kursi, lemari dan masih sangat banyak yang lainnya. Dengan adanya furniture ini akan membuat hunian anda lebih fungsional dan efisien.

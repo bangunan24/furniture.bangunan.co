@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Tasikmalaya"
-date: "2024-06-20"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Tasikmalaya. Untuk anda yg sedang mencari Jual Kursi & Meja Rotan di Tasikmalaya, material rotan menjadi bagian pilihan yang cukup..."
+title: Jual Kursi & Meja Rotan di Tasikmalaya
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Tasikmalaya. Untuk anda yg sedang mencari Jual
+  Kursi & Meja Rotan di Tasikmalaya, material rotan menjadi bagian pilihan yang
+  cukup...
 ---
 
 **Jual Kursi & Meja Rotan di Tasikmalaya** – Furniture yaitu salah satu kelengkapan atau perabotan tempat tinggal yang mencangkup beraneka kebutuhan yg dibutuhkan oleh manusia. Beberapa ragam furniture yang acap kali anda jumpai seperti meja, tempat duduk, lemari dan masih begitu banyak yg lainnya. Dg adanya furniture ini akan membuat hunian anda paling fungsional dan efisien.

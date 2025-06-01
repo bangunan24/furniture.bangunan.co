@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Meruya Jakarta"
-date: "2024-06-25"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Meruya Jakarta. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Meruya Jakarta, material rotan bakal jadi salah satu piliha..."
+title: Jual Kursi & Meja Rotan di Meruya Jakarta
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Meruya Jakarta. Bagi anda yg sedang mencari Jual
+  Kursi & Meja Rotan di Meruya Jakarta, material rotan bakal jadi salah satu
+  piliha...
 ---
 
 **Jual Kursi & Meja Rotan di Meruya Jakarta** – Furniture yaitu beberapa kelengkapan atau perabotan rumah yang mencangkup bermacam2 kebutuhan yg diperlukan oleh manusia. Beberapa variasi furniture yg sering anda jumpai seperti meja, tempat duduk, lemari dan masih banyak yg yang lain. Dg adanya furniture ini akan menjadikan hunian anda lebih efektif dan efisien.

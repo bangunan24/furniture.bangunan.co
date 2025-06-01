@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Mulyaharja Bogor"
-date: "2024-06-11"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Mulyaharja Bogor. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Mulyaharja Bogor, bahan rotan akan menjadi beberapa pi..."
+title: Jual Kursi & Meja Rotan di Mulyaharja Bogor
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Mulyaharja Bogor. Untuk anda yang sedang mencari
+  Jual Kursi & Meja Rotan di Mulyaharja Bogor, bahan rotan akan menjadi beberapa
+  pi...
 ---
 
 **Jual Kursi & Meja Rotan di Mulyaharja Bogor** – Furniture adalah bagian peralatan atau perabotan rumah yang mencangkup beraneka keperluan yang dibutuhkan oleh manusia. Beberapa tipe furniture yg kerap kali anda jumpai semisal meja, bangku, lemari dan masih sangat banyak yang lainnya. Dg adanya furniture ini akan menjadikan rumah anda sangat tepat guna dan efisien.

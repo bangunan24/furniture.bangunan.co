@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Sumedang"
-date: "2024-06-29"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Sumedang. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Sumedang, material rotan bakal jadi beberapa alternatif yg cuku..."
+title: Jual Kursi & Meja Rotan di Sumedang
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Sumedang. Bagi anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Sumedang, material rotan bakal jadi beberapa alternatif yg
+  cuku...
 ---
 
 **Jual Kursi & Meja Rotan di Sumedang** – Furniture merupakan salah satu perlengkapan atau perabotan hunian yang mencangkup bermacam-macam keperluan yang dibutuhkan oleh manusia. Beberapa macam furniture yg tak jarang anda jumpai seperti meja, sofa, lemari dan masih sangat banyak yang lainnya. Dg adanya furniture ini akan membikin rumah anda sangat tepat guna dan efisien.

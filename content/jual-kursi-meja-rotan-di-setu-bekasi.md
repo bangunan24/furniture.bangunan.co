@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Setu Bekasi"
-date: "2024-06-26"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Setu Bekasi. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Setu Bekasi, bahan rotan akan menjadi bagian pilihan yg cuk..."
+title: Jual Kursi & Meja Rotan di Setu Bekasi
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Setu Bekasi. Untuk anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Setu Bekasi, bahan rotan akan menjadi bagian pilihan yg
+  cuk...
 ---
 
 **Jual Kursi & Meja Rotan di Setu Bekasi** – Furniture yaitu bagian perlengkapan atau perabotan rumah yg mencangkup beraneka kebutuhan yang diperlukan oleh manusia. Beberapa variasi furniture yang kerap kali anda jumpai seperti meja, sofa, lemari dan masih begitu banyak yang yang lain. Dg adanya furniture ini akan membikin rumah anda lebih fungsional dan efisien.

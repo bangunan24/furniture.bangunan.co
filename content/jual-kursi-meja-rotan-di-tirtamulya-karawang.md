@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Tirtamulya Karawang"
-date: "2024-06-17"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Tirtamulya Karawang. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Tirtamulya Karawang, bahan rotan bakal jadi salah satu..."
+title: Jual Kursi & Meja Rotan di Tirtamulya Karawang
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Tirtamulya Karawang. Bagi anda yg sedang mencari
+  Jual Kursi & Meja Rotan di Tirtamulya Karawang, bahan rotan bakal jadi salah
+  satu...
 ---
 
 **Jual Kursi & Meja Rotan di Tirtamulya Karawang** – Furniture merupakan bagian kelengkapan atau perabotan rumah yang mencangkup beraneka kebutuhan yang diperlukan oleh manusia. Sebagian tipe furniture yang tak jarang anda jumpai seperti meja, kursi, lemari dan masih sangat banyak yg yang lain. Dg adanya furniture ini akan membikin rumah anda sangat fungsional dan efisien.

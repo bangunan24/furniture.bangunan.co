@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Pangkalan Karawang"
-date: "2024-06-19"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Pangkalan Karawang. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Pangkalan Karawang, bahan rotan akan menjadi salah satu..."
+title: Jual Kursi & Meja Rotan di Pangkalan Karawang
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Pangkalan Karawang. Bagi anda yg sedang mencari
+  Jual Kursi & Meja Rotan di Pangkalan Karawang, bahan rotan akan menjadi salah
+  satu...
 ---
 
 **Jual Kursi & Meja Rotan di Pangkalan Karawang** – Furniture ialah salah satu perlengkapan atau perabotan hunian yang mencangkup beraneka keperluan yang dibutuhkan oleh manusia. Beberapa jenis furniture yg sering kali anda jumpai semisal meja, sofa, lemari dan masih sangat banyak yg lainnya. Dg adanya furniture ini akan membuat tempat tinggal anda paling tepat guna dan efisien.

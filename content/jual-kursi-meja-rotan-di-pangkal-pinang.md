@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Pangkal Pinang"
-date: "2024-06-24"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Pangkal Pinang. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Pangkal Pinang, bahan rotan akan menjadi salah satu alte..."
+title: Jual Kursi & Meja Rotan di Pangkal Pinang
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Pangkal Pinang. Untuk anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Pangkal Pinang, bahan rotan akan menjadi salah satu
+  alte...
 ---
 
 **Jual Kursi & Meja Rotan di Pangkal Pinang** – Furniture merupakan bagian kelengkapan atau perabotan tempat tinggal yg mencangkup bermacam-macam kebutuhan yang diperlukan oleh manusia. Sebagian jenis furniture yg acap kali anda jumpai seperti meja, bangku, lemari dan masih sangat banyak yg yang lain. Dg adanya furniture ini akan menjadikan tempat tinggal anda lebih tepat guna dan efisien.

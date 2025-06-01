@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Leuwiliang"
-date: "2024-06-30"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Leuwiliang. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Leuwiliang, bahan rotan akan menjadi salah satu opsi yg cukup e..."
+title: Jual Kursi & Meja Rotan di Leuwiliang
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Leuwiliang. Bagi anda yg sedang mencari Jual Kursi
+  & Meja Rotan di Leuwiliang, bahan rotan akan menjadi salah satu opsi yg cukup
+  e...
 ---
 
 **Jual Kursi & Meja Rotan di Leuwiliang** – Furniture ialah beberapa peralatan atau perabotan hunian yg mencangkup bermacam2 keperluan yg dibutuhkan oleh manusia. Beberapa variasi furniture yg acap kali anda jumpai semisal meja, kursi, lemari dan masih banyak yg lainnya. Dg adanya furniture ini akan menjadikan rumah anda sangat fungsional dan efisien.

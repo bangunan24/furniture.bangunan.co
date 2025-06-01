@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Senen Jakarta"
-date: "2024-06-11"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Senen Jakarta. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Senen Jakarta, bahan rotan akan menjadi beberapa alternati..."
+title: Jual Kursi & Meja Rotan di Senen Jakarta
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Senen Jakarta. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Senen Jakarta, bahan rotan akan menjadi beberapa
+  alternati...
 ---
 
 **Jual Kursi & Meja Rotan di Senen Jakarta** – Furniture adalah salah satu peralatan atau perabotan rumah yang mencangkup beraneka kebutuhan yang dibutuhkan oleh manusia. Beberapa jenis furniture yang tak jarang anda jumpai semisal meja, tempat duduk, lemari dan masih begitu banyak yg lainnya. Dengan adanya furniture ini akan menjadikan tempat tinggal anda paling fungsional dan efisien.

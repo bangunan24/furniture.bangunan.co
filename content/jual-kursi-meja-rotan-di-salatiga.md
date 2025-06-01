@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Salatiga"
-date: "2024-06-26"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Salatiga. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Salatiga, bahan rotan bakal jadi bagian alternatif yang teramat..."
+title: Jual Kursi & Meja Rotan di Salatiga
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Salatiga. Bagi anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Salatiga, bahan rotan bakal jadi bagian alternatif yang
+  teramat...
 ---
 
 **Jual Kursi & Meja Rotan di Salatiga** – Furniture yaitu bagian kelengkapan atau perabotan tempat tinggal yg mencangkup beragam keperluan yang diperlukan oleh manusia. Beberapa tipe furniture yang tak jarang anda jumpai seperti meja, kursi, lemari dan masih begitu banyak yg yang lain. Dengan adanya furniture ini akan membuat hunian anda paling efektif dan efisien.

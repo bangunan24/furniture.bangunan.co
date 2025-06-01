@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Prabumulih"
-date: "2024-06-11"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Prabumulih. Untuk anda yg sedang mencari Jual Kursi & Meja Rotan di Prabumulih, bahan rotan akan menjadi bagian opsi yang teramat..."
+title: Jual Kursi & Meja Rotan di Prabumulih
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Prabumulih. Untuk anda yg sedang mencari Jual Kursi
+  & Meja Rotan di Prabumulih, bahan rotan akan menjadi bagian opsi yang
+  teramat...
 ---
 
 **Jual Kursi & Meja Rotan di Prabumulih** – Furniture yaitu beberapa kelengkapan atau perabotan rumah yang mencangkup beragam keperluan yg diperlukan oleh manusia. Beberapa variasi furniture yang kerap kali anda jumpai semisal meja, sofa, lemari dan masih sangat banyak yg yang lain. Dengan adanya furniture ini akan membikin hunian anda lebih fungsional dan efisien.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Margajaya Bogor"
-date: "2024-06-27"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Margajaya Bogor. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Margajaya Bogor, material rotan menjadi salah satu pilih..."
+title: Jual Kursi & Meja Rotan di Margajaya Bogor
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Margajaya Bogor. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Margajaya Bogor, material rotan menjadi salah satu
+  pilih...
 ---
 
 **Jual Kursi & Meja Rotan di Margajaya Bogor** – Furniture yaitu beberapa perlengkapan atau perabotan hunian yg mencangkup bermacam-macam keperluan yang diperlukan oleh manusia. Sebagian variasi furniture yang acap kali anda jumpai seperti meja, kursi, lemari dan masih begitu banyak yg lainnya. Dengan adanya furniture ini akan membuat hunian anda paling fungsional dan efisien.

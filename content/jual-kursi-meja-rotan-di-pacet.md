@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Pacet"
-date: "2024-06-22"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Pacet. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Pacet, material rotan menjadi beberapa pilihan yang amat fungsion..."
+title: Jual Kursi & Meja Rotan di Pacet
+date: '2025-06-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Pacet. Untuk anda yang sedang mencari Jual Kursi &
+  Meja Rotan di Pacet, material rotan menjadi beberapa pilihan yang amat
+  fungsion...
 ---
 
 **Jual Kursi & Meja Rotan di Pacet** – Furniture adalah salah satu kelengkapan atau perabotan rumah yg mencangkup bermacam-macam kebutuhan yang dibutuhkan oleh manusia. Sebagian jenis furniture yg tak jarang anda jumpai semisal meja, tempat duduk, lemari dan masih sangat banyak yg yang lain. Dg adanya furniture ini akan membikin hunian anda paling fungsional dan efisien.
