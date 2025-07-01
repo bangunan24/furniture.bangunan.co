@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Semarang"
-date: "2024-07-09"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Semarang. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Semarang, material rotan menjadi bagian opsi yang amat efektif..."
+title: Jual Kursi & Meja Rotan di Semarang
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Semarang. Bagi anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Semarang, material rotan menjadi bagian opsi yang amat
+  efektif...
 ---
 
 **Jual Kursi & Meja Rotan di Semarang** – Furniture ialah salah satu peralatan atau perabotan hunian yg mencangkup beraneka keperluan yg dibutuhkan oleh manusia. Sebagian variasi furniture yang sering anda jumpai seperti meja, sofa, lemari dan masih sangat banyak yang yang lain. Dengan adanya furniture ini akan membuat hunian anda lebih tepat guna dan efisien.

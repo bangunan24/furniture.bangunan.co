@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Purwakarta"
-date: "2024-07-16"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Purwakarta. Untuk anda yg sedang mencari Jual Kursi & Meja Rotan di Purwakarta, material rotan menjadi salah satu opsi yang terama..."
+title: Jual Kursi & Meja Rotan di Purwakarta
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Purwakarta. Untuk anda yg sedang mencari Jual Kursi
+  & Meja Rotan di Purwakarta, material rotan menjadi salah satu opsi yang
+  terama...
 ---
 
 **Jual Kursi & Meja Rotan di Purwakarta** – Furniture adalah bagian peralatan atau perabotan tempat tinggal yang mencangkup beraneka kebutuhan yg diperlukan oleh manusia. Beberapa macam furniture yang sering kali anda jumpai seperti meja, kursi, lemari dan masih begitu banyak yang yang lain. Dg adanya furniture ini akan membikin tempat tinggal anda lebih fungsional dan efisien.

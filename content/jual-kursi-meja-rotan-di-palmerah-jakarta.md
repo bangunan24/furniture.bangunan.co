@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Palmerah Jakarta"
-date: "2024-07-24"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Palmerah Jakarta. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Palmerah Jakarta, bahan rotan bakal jadi beberapa pilihan..."
+title: Jual Kursi & Meja Rotan di Palmerah Jakarta
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Palmerah Jakarta. Bagi anda yg sedang mencari Jual
+  Kursi & Meja Rotan di Palmerah Jakarta, bahan rotan bakal jadi beberapa
+  pilihan...
 ---
 
 **Jual Kursi & Meja Rotan di Palmerah Jakarta** – Furniture ialah bagian perlengkapan atau perabotan tempat tinggal yang mencangkup beragam kebutuhan yg diperlukan oleh manusia. Sebagian jenis furniture yg acap kali anda jumpai seperti meja, kursi, lemari dan masih begitu banyak yg lainnya. Dengan adanya furniture ini akan membikin tempat tinggal anda paling fungsional dan efisien.

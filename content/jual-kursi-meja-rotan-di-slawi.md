@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Slawi"
-date: "2024-07-05"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Slawi. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Slawi, material rotan akan menjadi beberapa pilihan yg teramat fun..."
+title: Jual Kursi & Meja Rotan di Slawi
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Slawi. Bagi anda yang sedang mencari Jual Kursi &
+  Meja Rotan di Slawi, material rotan akan menjadi beberapa pilihan yg teramat
+  fun...
 ---
 
 **Jual Kursi & Meja Rotan di Slawi** – Furniture ialah beberapa perlengkapan atau perabotan rumah yg mencangkup beraneka kebutuhan yang dibutuhkan oleh manusia. Beberapa tipe furniture yang tak jarang anda jumpai semisal meja, bangku, lemari dan masih begitu banyak yang yang lain. Dengan adanya furniture ini akan membuat rumah anda lebih fungsional dan efisien.

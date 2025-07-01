@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Sorong"
-date: "2024-07-01"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Sorong. Untuk anda yg sedang mencari Jual Kursi & Meja Rotan di Sorong, material rotan akan menjadi salah satu alternatif yg cukup..."
+title: Jual Kursi & Meja Rotan di Sorong
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Sorong. Untuk anda yg sedang mencari Jual Kursi &
+  Meja Rotan di Sorong, material rotan akan menjadi salah satu alternatif yg
+  cukup...
 ---
 
 **Jual Kursi & Meja Rotan di Sorong** – Furniture adalah bagian perlengkapan atau perabotan tempat tinggal yang mencangkup beragam keperluan yg diperlukan oleh manusia. Beberapa ragam furniture yg sering anda jumpai seperti meja, kursi, lemari dan masih begitu banyak yang lainnya. Dengan adanya furniture ini akan membuat hunian anda paling efektif dan efisien.

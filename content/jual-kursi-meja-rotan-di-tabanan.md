@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Tabanan"
-date: "2024-07-15"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Tabanan. Untuk anda yg sedang mencari Jual Kursi & Meja Rotan di Tabanan, material rotan akan menjadi bagian alternatif yg amat te..."
+title: Jual Kursi & Meja Rotan di Tabanan
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Tabanan. Untuk anda yg sedang mencari Jual Kursi &
+  Meja Rotan di Tabanan, material rotan akan menjadi bagian alternatif yg amat
+  te...
 ---
 
 **Jual Kursi & Meja Rotan di Tabanan** – Furniture yakni bagian perlengkapan atau perabotan rumah yang mencangkup bermacam-macam keperluan yg diperlukan oleh manusia. Beberapa tipe furniture yang acap kali anda jumpai seperti meja, sofa, lemari dan masih sangat banyak yg lainnya. Dg adanya furniture ini akan membikin tempat tinggal anda paling fungsional dan efisien.

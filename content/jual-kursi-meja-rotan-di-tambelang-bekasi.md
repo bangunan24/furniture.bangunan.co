@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Tambelang Bekasi"
-date: "2024-07-16"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Tambelang Bekasi. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Tambelang Bekasi, bahan rotan bakal jadi beberapa pilihan..."
+title: Jual Kursi & Meja Rotan di Tambelang Bekasi
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Tambelang Bekasi. Bagi anda yg sedang mencari Jual
+  Kursi & Meja Rotan di Tambelang Bekasi, bahan rotan bakal jadi beberapa
+  pilihan...
 ---
 
 **Jual Kursi & Meja Rotan di Tambelang Bekasi** – Furniture merupakan salah satu kelengkapan atau perabotan rumah yang mencangkup beragam keperluan yang dibutuhkan oleh manusia. Beberapa tipe furniture yang sering kali anda jumpai seperti meja, tempat duduk, lemari dan masih sangat banyak yang lainnya. Dg adanya furniture ini akan membuat rumah anda sangat efektif dan efisien.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Sungai Liat"
-date: "2024-07-04"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Sungai Liat. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Sungai Liat, bahan rotan bakal jadi salah satu alternatif yg t..."
+title: Jual Kursi & Meja Rotan di Sungai Liat
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Sungai Liat. Bagi anda yg sedang mencari Jual Kursi
+  & Meja Rotan di Sungai Liat, bahan rotan bakal jadi salah satu alternatif yg
+  t...
 ---
 
 **Jual Kursi & Meja Rotan di Sungai Liat** – Furniture merupakan beberapa kelengkapan atau perabotan rumah yg mencangkup beraneka kebutuhan yg diperlukan oleh manusia. Beberapa ragam furniture yg sering anda jumpai semisal meja, bangku, lemari dan masih sangat banyak yang yang lain. Dengan adanya furniture ini akan menjadikan rumah anda paling fungsional dan efisien.

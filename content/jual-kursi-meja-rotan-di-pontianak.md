@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Pontianak"
-date: "2024-07-17"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Pontianak. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Pontianak, material rotan akan menjadi salah satu opsi yang cu..."
+title: Jual Kursi & Meja Rotan di Pontianak
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Pontianak. Bagi anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Pontianak, material rotan akan menjadi salah satu opsi yang
+  cu...
 ---
 
 **Jual Kursi & Meja Rotan di Pontianak** – Furniture adalah salah satu kelengkapan atau perabotan tempat tinggal yg mencangkup beraneka kebutuhan yang diperlukan oleh manusia. Beberapa macam furniture yg sering kali anda jumpai semisal meja, kursi, lemari dan masih sangat banyak yang yang lain. Dengan adanya furniture ini akan menjadikan hunian anda lebih fungsional dan efisien.

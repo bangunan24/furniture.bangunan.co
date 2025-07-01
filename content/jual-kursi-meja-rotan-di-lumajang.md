@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Lumajang"
-date: "2024-07-18"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Lumajang. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Lumajang, material rotan menjadi bagian alternatif yang cukup..."
+title: Jual Kursi & Meja Rotan di Lumajang
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Lumajang. Untuk anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Lumajang, material rotan menjadi bagian alternatif yang
+  cukup...
 ---
 
 **Jual Kursi & Meja Rotan di Lumajang** – Furniture ialah beberapa perlengkapan atau perabotan rumah yang mencangkup bermacam2 kebutuhan yang dibutuhkan oleh manusia. Beberapa variasi furniture yg sering anda jumpai semisal meja, bangku, lemari dan masih banyak yang yang lain. Dengan adanya furniture ini akan membikin rumah anda sangat efektif dan efisien.

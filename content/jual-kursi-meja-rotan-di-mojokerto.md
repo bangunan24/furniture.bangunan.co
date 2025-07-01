@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Mojokerto"
-date: "2024-07-12"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Mojokerto. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Mojokerto, material rotan bakal jadi salah satu pilihan yang t..."
+title: Jual Kursi & Meja Rotan di Mojokerto
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Mojokerto. Bagi anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Mojokerto, material rotan bakal jadi salah satu pilihan yang
+  t...
 ---
 
 **Jual Kursi & Meja Rotan di Mojokerto** – Furniture yaitu beberapa perlengkapan atau perabotan rumah yg mencangkup beraneka keperluan yang diperlukan oleh manusia. Sebagian tipe furniture yg sering kali anda jumpai semisal meja, tempat duduk, lemari dan masih banyak yg lainnya. Dengan adanya furniture ini akan membuat rumah anda paling efektif dan efisien.

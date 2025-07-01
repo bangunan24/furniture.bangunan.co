@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Magelang"
-date: "2024-07-08"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Magelang. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Magelang, bahan rotan menjadi beberapa opsi yg cukup tepat guna..."
+title: Jual Kursi & Meja Rotan di Magelang
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Magelang. Bagi anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Magelang, bahan rotan menjadi beberapa opsi yg cukup tepat
+  guna...
 ---
 
 **Jual Kursi & Meja Rotan di Magelang** – Furniture merupakan beberapa kelengkapan atau perabotan rumah yg mencangkup beraneka kebutuhan yg diperlukan oleh manusia. Beberapa tipe furniture yang kerap kali anda jumpai seperti meja, sofa, lemari dan masih sangat banyak yg lainnya. Dg adanya furniture ini akan membikin hunian anda sangat efektif dan efisien.

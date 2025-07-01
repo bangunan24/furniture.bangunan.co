@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Telagasari Karawang"
-date: "2024-07-03"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Telagasari Karawang. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Telagasari Karawang, material rotan bakal jadi bagi..."
+title: Jual Kursi & Meja Rotan di Telagasari Karawang
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Telagasari Karawang. Untuk anda yang sedang mencari
+  Jual Kursi & Meja Rotan di Telagasari Karawang, material rotan bakal jadi
+  bagi...
 ---
 
 **Jual Kursi & Meja Rotan di Telagasari Karawang** – Furniture ialah beberapa kelengkapan atau perabotan hunian yg mencangkup beraneka keperluan yang dibutuhkan oleh manusia. Beberapa ragam furniture yang kerap kali anda jumpai seperti meja, sofa, lemari dan masih banyak yg yang lain. Dg adanya furniture ini akan menjadikan hunian anda sangat tepat guna dan efisien.

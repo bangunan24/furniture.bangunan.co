@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Majalaya Karawang"
-date: "2024-07-14"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Majalaya Karawang. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Majalaya Karawang, bahan rotan akan menjadi bagian op..."
+title: Jual Kursi & Meja Rotan di Majalaya Karawang
+date: '2025-07-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Majalaya Karawang. Untuk anda yang sedang mencari
+  Jual Kursi & Meja Rotan di Majalaya Karawang, bahan rotan akan menjadi bagian
+  op...
 ---
 
 **Jual Kursi & Meja Rotan di Majalaya Karawang** – Furniture merupakan salah satu perlengkapan atau perabotan hunian yang mencangkup beraneka kebutuhan yang dibutuhkan oleh manusia. Beberapa macam furniture yang sering kali anda jumpai seperti meja, sofa, lemari dan masih begitu banyak yg yang lain. Dengan adanya furniture ini akan membikin tempat tinggal anda paling tepat guna dan efisien.
