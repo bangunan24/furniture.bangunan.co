@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Tegalwaru Karawang"
-date: "2024-08-16"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Tegalwaru Karawang. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Tegalwaru Karawang, bahan rotan bakal jadi bagian alter..."
+title: Jual Kursi & Meja Rotan di Tegalwaru Karawang
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Tegalwaru Karawang. Bagi anda yg sedang mencari
+  Jual Kursi & Meja Rotan di Tegalwaru Karawang, bahan rotan bakal jadi bagian
+  alter...
 ---
 
 **Jual Kursi & Meja Rotan di Tegalwaru Karawang** – Furniture adalah bagian kelengkapan atau perabotan hunian yg mencangkup bermacam2 keperluan yg dibutuhkan oleh manusia. Sebagian macam furniture yang kerap kali anda jumpai semisal meja, tempat duduk, lemari dan masih banyak yg yang lain. Dg adanya furniture ini akan membikin rumah anda lebih tepat guna dan efisien.

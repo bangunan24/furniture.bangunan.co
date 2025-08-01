@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Mojosari"
-date: "2024-08-24"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Mojosari. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Mojosari, bahan rotan akan menjadi beberapa opsi yg amat tepat..."
+title: Jual Kursi & Meja Rotan di Mojosari
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Mojosari. Bagi anda yang sedang mencari Jual Kursi
+  & Meja Rotan di Mojosari, bahan rotan akan menjadi beberapa opsi yg amat
+  tepat...
 ---
 
 **Jual Kursi & Meja Rotan di Mojosari** – Furniture yaitu salah satu peralatan atau perabotan rumah yang mencangkup bermacam-macam keperluan yg diperlukan oleh manusia. Beberapa ragam furniture yang tak jarang anda jumpai semisal meja, tempat duduk, lemari dan masih begitu banyak yg yang lain. Dg adanya furniture ini akan membuat tempat tinggal anda lebih fungsional dan efisien.

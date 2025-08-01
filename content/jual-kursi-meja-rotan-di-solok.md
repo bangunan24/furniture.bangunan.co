@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Solok"
-date: "2024-08-29"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Solok. Untuk anda yg sedang mencari Jual Kursi & Meja Rotan di Solok, material rotan akan menjadi beberapa opsi yang cukup fungsio..."
+title: Jual Kursi & Meja Rotan di Solok
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Solok. Untuk anda yg sedang mencari Jual Kursi &
+  Meja Rotan di Solok, material rotan akan menjadi beberapa opsi yang cukup
+  fungsio...
 ---
 
 **Jual Kursi & Meja Rotan di Solok** – Furniture yakni salah satu kelengkapan atau perabotan tempat tinggal yg mencangkup bermacam2 keperluan yang dibutuhkan oleh manusia. Sebagian ragam furniture yang kerap kali anda jumpai seperti meja, sofa, lemari dan masih sangat banyak yg lainnya. Dengan adanya furniture ini akan membikin tempat tinggal anda paling fungsional dan efisien.

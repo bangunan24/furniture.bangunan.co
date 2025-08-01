@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Muarasari Bogor"
-date: "2024-08-25"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Muarasari Bogor. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Muarasari Bogor, bahan rotan bakal jadi beberapa piliha..."
+title: Jual Kursi & Meja Rotan di Muarasari Bogor
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Muarasari Bogor. Untuk anda yang sedang mencari
+  Jual Kursi & Meja Rotan di Muarasari Bogor, bahan rotan bakal jadi beberapa
+  piliha...
 ---
 
 **Jual Kursi & Meja Rotan di Muarasari Bogor** – Furniture ialah salah satu perlengkapan atau perabotan rumah yg mencangkup beraneka keperluan yang diperlukan oleh manusia. Beberapa jenis furniture yg acap kali anda jumpai seperti meja, tempat duduk, lemari dan masih banyak yg yang lain. Dg adanya furniture ini akan membikin rumah anda paling tepat guna dan efisien.

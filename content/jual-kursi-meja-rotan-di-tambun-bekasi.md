@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Tambun Bekasi"
-date: "2024-08-19"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Tambun Bekasi. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Tambun Bekasi, bahan rotan menjadi bagian alternatif yang..."
+title: Jual Kursi & Meja Rotan di Tambun Bekasi
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Tambun Bekasi. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Tambun Bekasi, bahan rotan menjadi bagian alternatif
+  yang...
 ---
 
 **Jual Kursi & Meja Rotan di Tambun Bekasi** – Furniture merupakan bagian peralatan atau perabotan hunian yg mencangkup bermacam-macam keperluan yang diperlukan oleh manusia. Sebagian variasi furniture yg sering anda jumpai seperti meja, kursi, lemari dan masih banyak yang lainnya. Dengan adanya furniture ini akan menjadikan hunian anda sangat tepat guna dan efisien.

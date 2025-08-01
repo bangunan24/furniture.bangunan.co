@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Lemahabang Karawang"
-date: "2024-08-02"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Lemahabang Karawang. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Lemahabang Karawang, material rotan bakal jadi bebe..."
+title: Jual Kursi & Meja Rotan di Lemahabang Karawang
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Lemahabang Karawang. Untuk anda yang sedang mencari
+  Jual Kursi & Meja Rotan di Lemahabang Karawang, material rotan bakal jadi
+  bebe...
 ---
 
 **Jual Kursi & Meja Rotan di Lemahabang Karawang** – Furniture yaitu beberapa perlengkapan atau perabotan hunian yang mencangkup bermacam-macam keperluan yg diperlukan oleh manusia. Sebagian variasi furniture yg sering anda jumpai semisal meja, bangku, lemari dan masih sangat banyak yg lainnya. Dengan adanya furniture ini akan menjadikan rumah anda lebih efektif dan efisien.

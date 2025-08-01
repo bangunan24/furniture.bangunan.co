@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Purwokerto"
-date: "2024-08-13"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Purwokerto. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Purwokerto, bahan rotan akan menjadi bagian opsi yang teramat..."
+title: Jual Kursi & Meja Rotan di Purwokerto
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Purwokerto. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Purwokerto, bahan rotan akan menjadi bagian opsi yang
+  teramat...
 ---
 
 **Jual Kursi & Meja Rotan di Purwokerto** – Furniture merupakan salah satu perlengkapan atau perabotan rumah yang mencangkup beraneka kebutuhan yang dibutuhkan oleh manusia. Sebagian variasi furniture yg sering anda jumpai semisal meja, sofa, lemari dan masih begitu banyak yg yang lain. Dg adanya furniture ini akan membuat tempat tinggal anda lebih efektif dan efisien.

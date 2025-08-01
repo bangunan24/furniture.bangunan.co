@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Palembang"
-date: "2024-08-01"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Palembang. Untuk anda yg sedang mencari Jual Kursi & Meja Rotan di Palembang, bahan rotan akan menjadi salah satu pilihan yang ama..."
+title: Jual Kursi & Meja Rotan di Palembang
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Palembang. Untuk anda yg sedang mencari Jual Kursi
+  & Meja Rotan di Palembang, bahan rotan akan menjadi salah satu pilihan yang
+  ama...
 ---
 
 **Jual Kursi & Meja Rotan di Palembang** – Furniture adalah bagian peralatan atau perabotan tempat tinggal yang mencangkup bermacam-macam kebutuhan yg dibutuhkan oleh manusia. Beberapa ragam furniture yg sering kali anda jumpai semisal meja, kursi, lemari dan masih banyak yg yang lain. Dg adanya furniture ini akan membuat rumah anda sangat tepat guna dan efisien.

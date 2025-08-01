@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Payakumbuh"
-date: "2024-08-03"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Payakumbuh. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Payakumbuh, bahan rotan menjadi bagian pilihan yg cukup fungs..."
+title: Jual Kursi & Meja Rotan di Payakumbuh
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Payakumbuh. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Payakumbuh, bahan rotan menjadi bagian pilihan yg cukup
+  fungs...
 ---
 
 **Jual Kursi & Meja Rotan di Payakumbuh** – Furniture merupakan beberapa kelengkapan atau perabotan rumah yang mencangkup beragam keperluan yang dibutuhkan oleh manusia. Sebagian macam furniture yg kerap kali anda jumpai seperti meja, kursi, lemari dan masih banyak yang yang lain. Dg adanya furniture ini akan membikin tempat tinggal anda lebih tepat guna dan efisien.

@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Palangkaraya"
-date: "2024-08-28"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Palangkaraya. Untuk anda yang sedang mencari Jual Kursi & Meja Rotan di Palangkaraya, material rotan menjadi beberapa alternatif y..."
+title: Jual Kursi & Meja Rotan di Palangkaraya
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Palangkaraya. Untuk anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Palangkaraya, material rotan menjadi beberapa alternatif
+  y...
 ---
 
 **Jual Kursi & Meja Rotan di Palangkaraya** – Furniture ialah salah satu kelengkapan atau perabotan hunian yg mencangkup bermacam-macam keperluan yg diperlukan oleh manusia. Sebagian variasi furniture yang tak jarang anda jumpai semisal meja, sofa, lemari dan masih banyak yang lainnya. Dg adanya furniture ini akan membikin tempat tinggal anda paling tepat guna dan efisien.

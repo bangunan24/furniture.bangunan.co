@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Yogyakarta"
-date: "2024-08-01"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Yogyakarta. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Yogyakarta, material rotan akan menjadi salah satu pilihan ya..."
+title: Jual Kursi & Meja Rotan di Yogyakarta
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Yogyakarta. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Yogyakarta, material rotan akan menjadi salah satu
+  pilihan ya...
 ---
 
 **Jual Kursi & Meja Rotan di Yogyakarta** – Furniture adalah salah satu peralatan atau perabotan tempat tinggal yang mencangkup beraneka keperluan yang diperlukan oleh manusia. Sebagian jenis furniture yg sering kali anda jumpai semisal meja, kursi, lemari dan masih begitu banyak yang lainnya. Dengan adanya furniture ini akan membikin tempat tinggal anda sangat efektif dan efisien.

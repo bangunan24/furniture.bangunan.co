@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Lubuklinggau"
-date: "2024-08-25"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Lubuklinggau. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Lubuklinggau, bahan rotan bakal jadi salah satu alternatif..."
+title: Jual Kursi & Meja Rotan di Lubuklinggau
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Lubuklinggau. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Lubuklinggau, bahan rotan bakal jadi salah satu
+  alternatif...
 ---
 
 **Jual Kursi & Meja Rotan di Lubuklinggau** – Furniture adalah salah satu perlengkapan atau perabotan rumah yang mencangkup beragam keperluan yang diperlukan oleh manusia. Sebagian ragam furniture yg sering kali anda jumpai semisal meja, tempat duduk, lemari dan masih banyak yang lainnya. Dengan adanya furniture ini akan membikin tempat tinggal anda lebih efektif dan efisien.

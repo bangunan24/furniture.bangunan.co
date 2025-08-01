@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Pakisjaya Karawang"
-date: "2024-08-10"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Pakisjaya Karawang. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Pakisjaya Karawang, material rotan bakal jadi beberap..."
+title: Jual Kursi & Meja Rotan di Pakisjaya Karawang
+date: '2025-08-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Pakisjaya Karawang. Bagi anda yang sedang mencari
+  Jual Kursi & Meja Rotan di Pakisjaya Karawang, material rotan bakal jadi
+  beberap...
 ---
 
 **Jual Kursi & Meja Rotan di Pakisjaya Karawang** – Furniture ialah salah satu perlengkapan atau perabotan hunian yang mencangkup beragam keperluan yang dibutuhkan oleh manusia. Sebagian jenis furniture yg sering kali anda jumpai seperti meja, kursi, lemari dan masih begitu banyak yg yang lain. Dg adanya furniture ini akan membikin hunian anda lebih efektif dan efisien.
