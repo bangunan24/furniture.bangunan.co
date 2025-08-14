@@ -1,54 +1,52 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Andi
-    message: >-
-      Kursi rotan dari furniture.bangunan.co hebat dan hasilnya sesuai dengan
-      yang saya inginkan.
-    response: >-
-      Terima kasih atas kepercayaannya! Kami senang dapat menyediakan produk
-      yang hebat untuk rumah Anda.
-    rating: 5
-  - avatar: /images/admin/avatar2.png
-    name: Siti
-    message: >-
-      Furniture.bangunan.co sangat membantu dalam melengkapi dekorasi rumah
-      saya. Desainnya minimalis dan produk yang saya beli sangat berkualitas.
-    response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
-      dengan furniture modern dari kami.
-    rating: 4
-  - avatar: /images/admin/avatar3.png
-    name: Agus
-    message: >-
-      Produk meja rotan dari furniture.bangunan.co sangat elegan dan cocok untuk
-      ruang tamu saya. Proses pembeliannya juga sederhana dan cepat.
-    response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan furniture yang tidak
-      hanya fungsional tetapi juga indah.
-    rating: 5
-  - avatar: /images/admin/avatar4.png
     name: Wawan
     message: >-
-      Kursi dan meja rotan dari furniture.bangunan.co bagus, desainnya elegan,
-      dan kualitasnya top.
+      Kursi rotan dari furniture.bangunan.co berkualitas dan hasilnya tepat
+      dengan yang saya inginkan.
     response: >-
-      Senang mendengar Anda puas dengan produk kami. Terima kasih atas
-      kepercayaannya!
-    rating: 4
-  - avatar: /images/admin/avatar5.png
+      Terima kasih atas kepercayaannya! Kami senang dapat menyediakan produk
+      yang memuaskan untuk rumah Anda.
+    rating: 5
+  - avatar: /images/admin/avatar2.png
     name: Nur
     message: >-
-      Saya puas dengan layanan dari furniture.bangunan.co. Produk yang saya beli
-      berkualitas tinggi dan hasilnya memuaskan.
+      Furniture.bangunan.co sangat membantu dalam melengkapi dekorasi rumah
+      saya. Desainnya modern dan produk yang saya beli sangat berkualitas.
     response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan suasana rumah yang
-      nyaman dengan produk terbaik.
+      Terima kasih atas ulasannya. Kami senang dapat membantu menciptakan
+      dekorasi rumah Anda!
+    rating: 4
+  - avatar: /images/admin/avatar3.png
+    name: Rizal
+    message: >-
+      Meja rotan dari furniture.bangunan.co elegan dan sesuai dengan gaya ruang
+      tamu saya. Pembeliannya praktis dan aman.
+    response: >-
+      Kami senang bisa menyediakan produk yang cocok untuk Anda. Terima kasih
+      atas kepercayaannya!
+    rating: 5
+  - avatar: /images/admin/avatar4.png
+    name: Ari
+    message: >-
+      Kursi dan meja rotan dari furniture.bangunan.co bagus, desainnya elegan,
+      dan kualitasnya luar biasa.
+    response: >-
+      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih produk
+      kami!
+    rating: 4
+  - avatar: /images/admin/avatar5.png
+    name: Maya
+    message: >-
+      Pelayanan furniture.bangunan.co sangat memuaskan. Produk yang saya beli
+      terbaik dan sesuai dengan ekspektasi saya.
+    response: Kami sangat menghargai ulasan Anda. Terima kasih atas kepercayaannya!
     rating: 5
   - avatar: /images/admin/avatar6.png
-    name: Eko
+    name: Toni
     message: >-
       Saya puas dengan layanan dari furniture.bangunan.co. Produk yang saya beli
-      hebat dan pengirimannya aman.
+      berkualitas tinggi dan pengirimannya aman.
     response: >-
       Terima kasih telah mempercayakan desain interior rumah Anda kepada kami.
       Kami senang produk kami sesuai dengan harapan Anda.
