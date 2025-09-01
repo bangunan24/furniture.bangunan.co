@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Mauk Tangerang"
-date: "2024-09-11"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Mauk Tangerang. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Mauk Tangerang, bahan rotan menjadi salah satu alternatif y..."
+title: Jual Kursi & Meja Rotan di Mauk Tangerang
+date: '2025-09-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Mauk Tangerang. Bagi anda yg sedang mencari Jual
+  Kursi & Meja Rotan di Mauk Tangerang, bahan rotan menjadi salah satu
+  alternatif y...
 ---
 
 **Jual Kursi & Meja Rotan di Mauk Tangerang** – Furniture yaitu beberapa kelengkapan atau perabotan tempat tinggal yang mencangkup beragam kebutuhan yg diperlukan oleh manusia. Beberapa variasi furniture yang tak jarang anda jumpai semisal meja, bangku, lemari dan masih banyak yg lainnya. Dg adanya furniture ini akan membikin rumah anda paling efektif dan efisien.

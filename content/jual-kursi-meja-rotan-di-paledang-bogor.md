@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Paledang Bogor"
-date: "2024-09-02"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Paledang Bogor. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Paledang Bogor, material rotan akan menjadi bagian piliha..."
+title: Jual Kursi & Meja Rotan di Paledang Bogor
+date: '2025-09-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Paledang Bogor. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Paledang Bogor, material rotan akan menjadi bagian
+  piliha...
 ---
 
 **Jual Kursi & Meja Rotan di Paledang Bogor** – Furniture merupakan salah satu peralatan atau perabotan hunian yang mencangkup beragam kebutuhan yang diperlukan oleh manusia. Beberapa jenis furniture yang tak jarang anda jumpai seperti meja, kursi, lemari dan masih banyak yang lainnya. Dg adanya furniture ini akan membikin hunian anda sangat tepat guna dan efisien.

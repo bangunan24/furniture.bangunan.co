@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Pacitan"
-date: "2024-09-05"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Pacitan. Bagi anda yg sedang mencari Jual Kursi & Meja Rotan di Pacitan, material rotan bakal jadi salah satu pilihan yg cukup fun..."
+title: Jual Kursi & Meja Rotan di Pacitan
+date: '2025-09-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Pacitan. Bagi anda yg sedang mencari Jual Kursi &
+  Meja Rotan di Pacitan, material rotan bakal jadi salah satu pilihan yg cukup
+  fun...
 ---
 
 **Jual Kursi & Meja Rotan di Pacitan** – Furniture merupakan bagian peralatan atau perabotan tempat tinggal yang mencangkup bermacam2 keperluan yang dibutuhkan oleh manusia. Sebagian macam furniture yg sering kali anda jumpai semisal meja, kursi, lemari dan masih banyak yg lainnya. Dg adanya furniture ini akan membuat rumah anda lebih efektif dan efisien.

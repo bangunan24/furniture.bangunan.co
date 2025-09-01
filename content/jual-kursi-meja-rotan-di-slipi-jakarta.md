@@ -1,9 +1,12 @@
 ---
-title: "Jual Kursi & Meja Rotan di Slipi Jakarta"
-date: "2024-09-02"
-categories: 
-  - "toko"
-description: "Jual Kursi & Meja Rotan di Slipi Jakarta. Bagi anda yang sedang mencari Jual Kursi & Meja Rotan di Slipi Jakarta, material rotan menjadi bagian pilihan yang..."
+title: Jual Kursi & Meja Rotan di Slipi Jakarta
+date: '2025-09-01'
+categories:
+  - toko
+description: >-
+  Jual Kursi & Meja Rotan di Slipi Jakarta. Bagi anda yang sedang mencari Jual
+  Kursi & Meja Rotan di Slipi Jakarta, material rotan menjadi bagian pilihan
+  yang...
 ---
 
 **Jual Kursi & Meja Rotan di Slipi Jakarta** – Furniture yaitu salah satu peralatan atau perabotan hunian yang mencangkup bermacam-macam kebutuhan yg diperlukan oleh manusia. Beberapa macam furniture yang tak jarang anda jumpai semisal meja, bangku, lemari dan masih banyak yg lainnya. Dengan adanya furniture ini akan menjadikan rumah anda sangat efektif dan efisien.
