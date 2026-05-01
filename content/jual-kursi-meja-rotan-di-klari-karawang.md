@@ -1,6 +1,6 @@
 ---
 title: Jual Kursi & Meja Rotan di Klari Karawang
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - toko
 description: >-
