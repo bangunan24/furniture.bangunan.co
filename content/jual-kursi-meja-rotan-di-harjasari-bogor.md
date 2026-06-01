@@ -1,6 +1,6 @@
 ---
 title: Jual Kursi & Meja Rotan di Harjasari Bogor
-date: '2025-06-01'
+date: '2026-06-01'
 categories:
   - toko
 description: >-
